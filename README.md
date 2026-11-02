@@ -1,20 +1,21 @@
-# Wiki Meshtastic Portugal
+# Wiki da Comunidade Meshtastic Portugal
 
-A [wiki da comunidade Meshtastic Portugal](https://meshtastic.pt/wiki) reúne guias, respostas e dicas para ajudar quem está a começar e quem já participa na rede. O conteúdo é escrito e revisto pela comunidade.
+A [wiki da Comunidade Meshtastic Portugal](https://meshtastic.pt/wiki) reúne guias e respostas para quem está a descobrir o Meshtastic e para quem já participa na rede. É escrita por pessoas da comunidade e melhora com a experiência de todos.
 
-## Como contribuir
+**[Explorar a wiki](https://meshtastic.pt/wiki)** · **[Sugerir um tema ou comunicar um erro](https://github.com/meshtastic-pt/wiki/issues/new)** · **[Contribuir](CONTRIBUTING.md)**
 
-Encontraste um erro ou tens uma sugestão? Podes abrir uma *Issue* ou propor uma alteração através de um *Pull Request*.
+## Como podes ajudar
 
-1. Escolhe um artigo para melhorar ou cria um novo.
-2. Explica a alteração no Pull Request e, sempre que possível, indica as fontes das informações técnicas.
-3. Aguarda a revisão da equipa. Depois de aprovada e integrada, a alteração aparece na wiki.
+- **Encontraste um erro?** Indica-o numa [Issue](https://github.com/meshtastic-pt/wiki/issues/new) ou propõe a correção num Pull Request.
+- **Falta um tema?** Sugere-o ou escreve um novo artigo. Não precisas de começar com um guia perfeito: uma explicação clara e verificada já ajuda.
+- **Tens experiência prática?** Acrescenta exemplos, imagens próprias e notas sobre equipamentos ou versões que conheces.
 
-Para preparar artigos, imagens e traduções, consulta o [guia de contribuição](CONTRIBUTING.md).
+O [guia de contribuição](CONTRIBUTING.md) explica como editar uma página, criar um artigo e pedir revisão.
 
-## Princípios editoriais
+## Como chega ao site
 
-- Escrever em português de Portugal, de forma clara e acolhedora.
-- Confirmar instruções técnicas antes de as publicar.
-- Indicar limitações e diferenças entre equipamentos quando forem relevantes.
-- Respeitar o trabalho de quem contribui e manter as discussões construtivas.
+As alterações são propostas através de Pull Requests. Depois da revisão e da integração no ramo `main`, a wiki do site é atualizada. Se a publicação encontrar um problema, a versão anterior continua disponível.
+
+## Como escrevemos
+
+Usamos português de Portugal e linguagem acessível. Distinguimos factos confirmados de experiências pessoais, indicamos fontes para instruções técnicas e assinalamos diferenças relevantes entre equipamentos, regiões ou versões de firmware.
