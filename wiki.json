@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "locales": {
+    "pt": {
+      "title": "Wiki da comunidade",
+      "sections": [
+        {
+          "title": "Começar",
+          "pages": ["primeiros-passos", "contribuir"]
+        }
+      ]
+    }
+  }
+}
