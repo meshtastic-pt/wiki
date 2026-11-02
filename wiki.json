@@ -10,7 +10,7 @@
         },
         {
           "title": "Software da Comunidade",
-          "pages": ["software-da-comunidade/mesh-test-bot", "software-da-comunidade/meshdeckweb"]
+          "pages": ["software-da-comunidade/mesh-test-bot", "software-da-comunidade/meshdeckweb", "software-da-comunidade/meshlog"]
         }
       ]
     }
