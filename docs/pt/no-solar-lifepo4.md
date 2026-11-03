@@ -80,4 +80,4 @@ A bateria LiFePO4 trabalha numa gama de tensão inferior (3,2 V nominais, 3,65 V
 ### Soluções recomendadas
 
 1. **Usar uma bateria de maior capacidade:** células como 26650 ou 32700, de 4000 mAh a 6000 mAh, garantem maior autonomia e estabilidade, mesmo que a tensão lida pareça baixa.
-2. **Ajustar a configuração de energia:** nas definições do nó (aplicação Meshtastic ou CLI), em **Power Configuration**, o multiplicador do ADC (*ADC Multiplier Override*) permite calibrar a leitura de tensão. Em alternativa, ignora ou desativa as notificações de bateria fraca.
+2. **Ajustar a configuração de energia:** nas definições do nó (aplicação Meshtastic ou CLI), em **Power Configuration**, o multiplicador do ADC (*ADC Multiplier Override*) permite calibrar a leitura de tensão. Em alternativa, ignora ou desativa as notificações de bateria fraca. Para mais informação, consulta a [documentação de Power Configuration do Meshtastic](https://meshtastic.org/docs/configuration/radio/power/).
