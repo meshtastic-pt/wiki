@@ -9,7 +9,7 @@ description: Passo a passo, lista de ligações e cuidados para alimentar um nó
 
 Este guia descreve a montagem e a soldadura de um nó Meshtastic alimentado por um painel solar, com uma bateria LiFePO4 de 3,2 V, um módulo carregador dedicado e uma placa de proteção (BMS) 1S.
 
-![Esquema de ligações: painel solar ligado ao módulo carregador LiFePO4; saídas B+ e B- do carregador ligadas a P+ e P- da BMS 1S; P+ e P- da BMS ligados a vBat e GND do equipamento Meshtastic; B+ e B- da BMS ligados aos polos da bateria LiFePO4](../../assets/esquema-no-solar-lifepo4.jpg)
+![Esquema de ligações: painel solar ligado ao módulo carregador LiFePO4; saídas B+ e B- do carregador ligadas a P+ e P- da BMS 1S; P+ e P- da BMS ligados a vBat e GND do equipamento Meshtastic; B+ e B- da BMS ligados aos polos da bateria LiFePO4](../../../assets/esquema-no-solar-lifepo4.jpg)
 
 ## Componentes
 
