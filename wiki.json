@@ -13,6 +13,10 @@
           "pages": ["hardware/no-solar-lifepo4"]
         },
         {
+          "title": "Rede",
+          "pages": ["rede/zero-cost-hop","rede/mqtt"]  
+        },
+        {
           "title": "Software da Comunidade",
           "pages": ["software-da-comunidade/mesh-test-bot", "software-da-comunidade/meshdeckweb", "software-da-comunidade/meshlog", "software-da-comunidade/meshtastic-bridge-ble-tcp"]
         }
